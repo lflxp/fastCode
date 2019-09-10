@@ -8,7 +8,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-
+golang.tar.gz
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
